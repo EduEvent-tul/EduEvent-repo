@@ -16,12 +16,12 @@ Module 6: Bartosz Pieniak
 
 # Technological Stack. 
 Frontend: React   
-Backend: Java Spring Boot   
+Backend: Python FastAPI   
 Database: PostgreSQL   
 Repository: Github   
 Task management: GitHub Projects   
-Testing: JUnit   
-Deployment: Render   
+Testing: pytests and Postman   
+Deployment: Render, Docker   
 
 # Modules
 Module 1+8: User management, authorisation and Administration panel    
