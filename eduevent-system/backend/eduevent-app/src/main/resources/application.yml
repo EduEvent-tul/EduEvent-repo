@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://ep-empty-resonance-b9x4bwot-pooler.c-7.eu-central-1.aws.neon.tech:5432/neondb?sslmode=require
+    username: neondb_owner
+    password: npg_rPYgKhMF3sR2
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: validate # blokada psucia mojich tabelek es
+    show-sql: true
+
+server:
+  port: 8080
