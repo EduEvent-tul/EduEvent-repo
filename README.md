@@ -6,13 +6,13 @@ EduEvent is an IT system designed to support the management of academic educatio
 
 Project Architects: Zofia Bukowska, Hanna Dąbrowska. 
 
-Programming Team: 10 programmers devided into 5 teams:  
-Team 1: eduevent-identity (Module 1 i module 8) - Tsimafei Kazlou and Ivan Bolbas
-Team 2: eduevent-events (Module 2) - Aleksander Szaforski and Oleh Chaikovskyi
-Team 3: eduevent-discovery (Module 3 i Module 5) - Aleksandra Bodura and Weronika Bonczał
-Team 4: eduevent-enrollment (Module 4) - Mikołaj Cichocki and Szymon Machała
-Team 5: eduevent-attendance (Module 6) - Bartosz Pieniak
-Team 6: eduevent-notifications (Module 7) - Igor Paderewski and Mateusz Pstrągowski
+Programming Team: 10 programmers devided into 5 teams:    
+Team 1: eduevent-identity (Module 1 i module 8) - Tsimafei Kazlou and Ivan Bolbas  
+Team 2: eduevent-events (Module 2) - Aleksander Szaforski and Oleh Chaikovskyi  
+Team 3: eduevent-discovery (Module 3 i Module 5) - Aleksandra Bodura and Weronika Bonczał  
+Team 4: eduevent-enrollment (Module 4) - Mikołaj Cichocki and Szymon Machała  
+Team 5: eduevent-attendance (Module 6) - Bartosz Pieniak  
+Team 6: eduevent-notifications (Module 7) - Igor Paderewski and Mateusz Pstrągowski  
 
 
 
