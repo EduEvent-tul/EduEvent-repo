@@ -33,5 +33,3 @@ Module 4: Participant registration and waiting list
 Module 6: Attendance,   
 Module 7: participant confirmations and notifications   
 
-This is a test
-
