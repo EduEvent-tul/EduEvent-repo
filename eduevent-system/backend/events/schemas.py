@@ -3,6 +3,7 @@ from pydantic import BaseModel, Field, ConfigDict, model_validator
 
 class EventCreate(BaseModel):
     title: str = Field(min_length=3, max_length=255)
+    description: str = Field(min_length=3, max_length=255)
     start_time: datetime
     end_time: datetime
     location: str = Field(min_length=1, max_length=255)
