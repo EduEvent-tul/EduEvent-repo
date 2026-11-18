@@ -12,6 +12,7 @@ class Event(Base):
 
     id = Column(BigInteger, primary_key=True, index=True)
     title = Column(String(255), nullable=False)
+    description = Column(String(255), nullable=False)
     start_time = Column(DateTime, nullable=False)
     end_time = Column(DateTime, nullable=False)
     location = Column(String(255), nullable=False)
